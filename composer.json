@@ -1,0 +1,16 @@
+{
+    "name": "comodojo/bundle-skeleton",
+    "description": "Generic package for comodojo components",
+    "license": "MIT",
+    "keywords": [],
+    "homepage": "https://comodojo.org",
+    "support": {
+        "issues": "https://github.com/comodojo/comodojo-bundle/issues"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bundle\\": "src/"
+        }
+    }
+}
+
